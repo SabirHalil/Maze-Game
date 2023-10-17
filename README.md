@@ -25,5 +25,13 @@ Reveal the path you took to conquer the maze, displaying the intricate route you
 
 * Exit the Game (Press Esc):
 Conclude your adventure and receive the final outcome of your journey.
+
 ## Class Diagram
-<img src="Capture.PNG?raw=true"/>
+<img src="assets/Capture.PNG?raw=true"/>
+
+## Screenshots
+* Intro <img src="assets/intro_page.PNG?raw=true"/>
+* Game <img src="assets/game.PNG?raw=true"/>
+* Bombs Coordinates <img src="assets/game_bombs.PNG?raw=true"/>
+
+
