@@ -1,6 +1,6 @@
-## Maze Game: A First-Year Computer Engineering Project
+## Maze Solver
 
-Welcome to Maze Solver, an exciting project that emerged from my very first year in computer engineering. This maze game project challenges your problem-solving skills and offers an opportunity for creative exploration.
+Welcome to Maze Solver, an exciting project that emerged from my very first year in computer engineering. This maze game project challenged my problem-solving skills and offered an opportunity for creative exploration.
 
 ## Gameplay Overview:
 Maze Solver is an automated adventure that immerses players in the captivating world of mazes. As the game unfolds, it offers two enticing options:
