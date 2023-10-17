@@ -1,0 +1,12 @@
+C:\Users\alone\source\repos\Text files\Text files\bin\Debug\Maze Game.exe.config
+C:\Users\alone\source\repos\Text files\Text files\bin\Debug\Maze Game.exe
+C:\Users\alone\source\repos\Text files\Text files\bin\Debug\Maze Game.pdb
+C:\Users\alone\source\repos\Text files\Text files\bin\Debug\Figgle.dll
+C:\Users\alone\source\repos\Text files\Text files\bin\Debug\Pastel.dll
+C:\Users\alone\source\repos\Text files\Text files\bin\Debug\Figgle.xml
+C:\Users\alone\source\repos\Text files\Text files\bin\Debug\Pastel.xml
+C:\Users\alone\source\repos\Text files\Text files\obj\Debug\Maze Game.csproj.AssemblyReference.cache
+C:\Users\alone\source\repos\Text files\Text files\obj\Debug\Maze Game.csproj.CoreCompileInputs.cache
+C:\Users\alone\source\repos\Text files\Text files\obj\Debug\Maze Game.csproj.CopyComplete
+C:\Users\alone\source\repos\Text files\Text files\obj\Debug\Maze Game.exe
+C:\Users\alone\source\repos\Text files\Text files\obj\Debug\Maze Game.pdb
